@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile
 
-Hello! I’m [Your Name], a passionate and dedicated game developer focused on creating innovative and engaging experiences. As I embark on my journey in the world of game development, I am actively learning and applying my skills in Unity and C#. 
+Hello! I’m Vishist Parashar, a passionate and dedicated web and game developer focused on creating innovative and engaging experiences. As I embark on my journey in the world of game development, I am actively learning and applying my skills in Unity and C#. 
 
 ## Current Projects
 
@@ -23,8 +23,6 @@ Hello! I’m [Your Name], a passionate and dedicated game developer focused on c
 
 ## Let’s Connect
 
-- [LinkedIn](Your_Linkedin_URL)
-- [Twitter](Your_Twitter_URL)
-- [Portfolio](Your_Portfolio_URL)
+- [LinkedIn]([Your_Linkedin_URL](https://www.linkedin.com/in/vishistparashar/))
 
 Feel free to explore my repositories, open issues, or contact me for collaboration opportunities. I am always open to feedback and discussions to further improve my skills.
