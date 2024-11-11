@@ -23,6 +23,6 @@ Hello! I’m Vishist Parashar, a passionate and dedicated web and game developer
 
 ## Let’s Connect
 
-- [LinkedIn]([Your_Linkedin_URL](https://www.linkedin.com/in/vishistparashar/))
+- [LinkedIn]([https://www.linkedin.com/in/vishistparashar/])
 
 Feel free to explore my repositories, open issues, or contact me for collaboration opportunities. I am always open to feedback and discussions to further improve my skills.
