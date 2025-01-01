@@ -48,10 +48,10 @@ Hello! I’m Vishist Parashar, a dedicated game developer and software engineer 
 
 ## Learning Focus
 
-- Improving Unity 2D game development skills and mastering game design principles.
+- MERN STACK💀💀
 - Exploring advanced Python frameworks and libraries to enhance web development.
 - Deepening knowledge of database management, optimization, and procedural programming.
-- Advancing front-end web development skills, particularly with JavaScript and responsive design.
+- Advancing front-end web development skills, particularly with GSAP FRAMEWORK.
 
 ## Let’s Connect
 
