@@ -24,6 +24,9 @@ Hello! I’m Vishist Parashar, a dedicated game developer and software engineer 
 - **Django**  
 - **Flask**  
 - **Bootstrap**
+- **GSAP**
+- **React**
+
 
 ### Game Development
 
@@ -33,8 +36,8 @@ Hello! I’m Vishist Parashar, a dedicated game developer and software engineer 
 
 ### Tools & Version Control
 
-- **Git/GitHub**  
-- **Visual Studio**
+- **Git**  
+- **GitHub**
 
 ## Web Applications & Programming
 
@@ -49,7 +52,7 @@ Hello! I’m Vishist Parashar, a dedicated game developer and software engineer 
 ## Learning Focus
 
 - MERN STACK💀💀
-- Exploring advanced Python frameworks and libraries to enhance web development.
+- Exploring AI/ML projects using PyTorch and Tensorflow.
 - Deepening knowledge of database management, optimization, and procedural programming.
 - Advancing front-end web development skills, particularly with GSAP FRAMEWORK.
 
