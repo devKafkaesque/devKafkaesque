@@ -60,5 +60,6 @@ Hello! I’m Vishist Parashar, a dedicated game developer and software engineer 
 
 - [LinkedIn](https://www.linkedin.com/in/vishistparashar/)
 - [Itch](https://invisghoul420.itch.io/)
+- [LeetCode](https://leetcode.com/u/invisGhoul/)
 
 Feel free to explore my repositories, contribute, or reach out if you’re interested in collaboration or providing feedback.
