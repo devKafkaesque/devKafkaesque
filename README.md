@@ -1,65 +1,38 @@
 # Welcome to My GitHub Profile
 
-Hello! I’m Vishist Parashar, a dedicated game developer and software engineer with a strong foundation in various programming languages, frameworks, and technologies. I am passionate about building efficient and engaging applications, and I’m continuously expanding my skills in game development and full-stack software engineering.
+Hello, I’m Vishist Parashar—a dedicated full-stack developer and game development enthusiast. I focus on building efficient and engaging applications, and I’m passionate about exploring new technologies.
 
 ## Current Projects
 
-- **SnowBoarder**: A 2D snowboarding game where players navigate challenging terrain, avoiding obstacles and mastering the slopes.
-- **KnowYe**: A fast-paced game inspired by the life of Kanye West, where players dodge paparazzi and collect Yeezys to build their empire.
-- **Athlead**: Web Application focusing on creating a one stop solution to fitness needs
+- **KEYper**: A property rental platform currently under development. This solo project is built using Vite, React, Tailwind CSS, Express, Node.js, and MongoDB, featuring detailed listings, real-time WebSocket chat, AI-generated property descriptions (via Google Generative AI), and property linking codes. You can view it live [here](https://keyper001.onrender.com/) or review the code [here](https://github.com/devKafkaesque/property-rental-platform).
+- **SnowBoarder**: A 2D snowboarding game focused on smooth gameplay and challenging mechanics.
+- **KnowYe**: A fast-paced game inspired by Kanye West, where players navigate dynamic challenges while managing in-game objectives.
+- **Athlead**: A comprehensive fitness web application designed to integrate various aspects of physical training, currently in progress.
 
 ## Technologies & Skills
 
 ### Programming Languages
+- Python, C, C++, Java, JavaScript, PHP
 
-- **Python**  
-- **C**  
-- **C++**  
-- **Java**  
-- **JavaScript**
-- **PHP**  
-
-### Web Development Frameworks
-
-- **Django**  
-- **Flask**  
-- **Bootstrap**
-- **GSAP**
-- **React**
-
+### Web Development Frameworks & Libraries
+- Django, Flask, Bootstrap, GSAP, React, Express.js, Tailwind CSS, Vite
 
 ### Game Development
-
-- **Unity (2D)**
-- **GDevelop Engine**
-- **C#**  
+- Unity (2D), GDevelop, C#
 
 ### Tools & Version Control
+- Git, GitHub, Render (for hosting)
 
-- **Git**  
-- **GitHub**
+### Additional Skills
+- HTML, CSS, SQL, RESTful API Development, WebSockets, Responsive Web Design, MongoDB
+- Focus on the MERN stack (MongoDB, Express.js, React, Node.js)
+- Exploring AI/ML with PyTorch and TensorFlow
+- Enhancing expertise in database management, optimization, and advanced front-end development with GSAP
 
-## Web Applications & Programming
-
-- **HTML**  
-- **CSS**
-- **SQL**  
-- **Procedural Programming**  
-- **RESTful API Development**  
-- **JavaScript (for Frontend Development)**  
-- **Responsive Web Design**
-
-## Learning Focus
-
-- MERN STACK💀💀
-- Exploring AI/ML projects using PyTorch and Tensorflow.
-- Deepening knowledge of database management, optimization, and procedural programming.
-- Advancing front-end web development skills, particularly with GSAP FRAMEWORK.
-
-## Let’s Connect
+## Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/vishistparashar/)
-- [Itch](https://invisghoul420.itch.io/)
+- [Itch.io](https://invisghoul420.itch.io/)
 - [LeetCode](https://leetcode.com/u/invisGhoul/)
 
-Feel free to explore my repositories, contribute, or reach out if you’re interested in collaboration or providing feedback.
+Feel free to explore my repositories, share your feedback, or get in touch if you’re interested in collaboration.
