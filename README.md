@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile
 
-Hello, I’m Vishist Parashar—a dedicated full-stack developer and game development enthusiast with a knack for solving problems and building next-level applications. When I’m not busy making the web (and sometimes snow!) a better place, I’m busy cooking up some seriously cool projects.
+Hello, I’m Vishist Parashar—a dedicated full-stack developer and game development enthusiast with a knack for solving problems and building next-level applications. When I’m not busy making the web (and my workplace!) a better place, I’m busy cooking up some seriously cool projects.
 
 ## Featured Projects
 
