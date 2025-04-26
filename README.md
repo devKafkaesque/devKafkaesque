@@ -8,9 +8,9 @@ Hello, I’m Vishist Parashar—a dedicated full-stack developer and game develo
   InsuranceBotFlow is an AI-powered chatbot application built with CrewAI that helps users interact with their insurance claims data. The system can process natural language queries to retrieve claim information and is designed to be extensible for additional insurance-related operations.  
   *[Explore InsuraceBotFlow →](https://github.com/devKafkaesque/crewai_crudflow)*
 
-- **NestFusion**  
-  A robust NestJS project focused on real-time data processing and seamless API integrations. Think of it as the digital equivalent of a Swiss Army knife for developers—versatile, dependable, and always ready to slice through complex challenges.  
-  *[Under Development Right Now]*
+- **KEYper**  
+  A property rental platform under development featuring detailed listings, real-time WebSocket chat, AI-generated property descriptions (via Google Generative AI), and property linking codes.  
+  *[View live →](https://keyper001.onrender.com/)* | *[Review code →](https://github.com/devKafkaesque/property-rental-platform)*
 
 ## Current Projects
 
@@ -28,7 +28,7 @@ Hello, I’m Vishist Parashar—a dedicated full-stack developer and game develo
 
   *[Under Development Right Now]*
 - **Athlead**  
-  A comprehensive fitness web application designed to integrate various aspects of physical training. It’s your digital gym buddy, always ready to help you track and achieve your goals.
+  A comprehensive django-based fitness web application designed to integrate various aspects of physical training. It’s your digital gym buddy, always ready to help you track and achieve your goals.
 
   *[Explore Athlead →](https://github.com/devKafkaesque/Athlead)*
 ## Technologies & Skills
@@ -37,7 +37,7 @@ Hello, I’m Vishist Parashar—a dedicated full-stack developer and game develo
 - Python, C, C++, Java, JavaScript, PHP
 
 ### Web Development Frameworks & Libraries
-- Django, Flask, Bootstrap, GSAP, React, Express.js, Tailwind CSS, Vite, **NestJS**
+- Django, Flask, Bootstrap, GSAP, React, Express.js, Tailwind CSS, Vite, Mongoose
 
 ### Game Development
 - Unity (2D), GDevelop, C#
